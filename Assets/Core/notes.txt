@@ -1,0 +1,25 @@
+Stats Component
+	Level
+	
+	Strength: determines damage in close combat
+	Dexterity: determines ranged damage
+	Wisdom: let's you understand seals
+	Mana
+	Hit points
+	Learning points: needed to increase other attributes and to learn new skills. 10 points are gained at each level up
+	
+Creature State Machine 
+	Idle
+	Patrol
+	Warning shouts
+	Circling
+	Attack
+	Dodge
+
+Character State Machine
+	Idle
+	Patrol
+	Attack
+	Block
+	Dodge
+	Circle around target or left to right
